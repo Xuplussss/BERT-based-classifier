@@ -1,4 +1,4 @@
-# BERT-based-classifier
+# BERT-based-classifier - [paper](<https://ieeexplore.ieee.org/abstract/document/9306243> "Title")
 
 
 ## Requirements
