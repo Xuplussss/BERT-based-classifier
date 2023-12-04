@@ -37,7 +37,7 @@ bash run_bert_linear.sh
 由上圖可看出，即使各方法得到的預測取線起伏相似，BERT模型在一年中的判斷能更與臨床吻合，對於冬季高峰也預測的較準。
 
 ## Reference
-This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
+This package provides training code for the [ILI prediction paper](<https://ieeexplore.ieee.org/abstract/document/9306243> "Title"). If you use this codebase in your experiments please cite: 
 
 ```
 @inproceedings{hsu2020natural,
